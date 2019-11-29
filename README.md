@@ -1,7 +1,7 @@
 # KingReturn    
 game rules
 The return of the king smart node contract: static equity value, shared equity value, and management equity value.    
-## I. Static Equity Value    
+## First. Static Equity Value    
 > Smart node contract: Ethereum's fully decentralized intelligent algorithm has a daily equity value of 30-130.    
 > 100USDT to 5000USDT (an integral multiple of 100) can participate in the smart node contract once every 24 hours. When Ethereum is fully decentralized to execute smart node contracts, 1% of the contract amount goes to the treasure chest (small game). 1% of the contract amount to the technical team as a platform service fee.    
 ## Second, share equity value    
